@@ -1,6 +1,8 @@
 # GDC 2024 - All things Azure and OpenAI
 Content for GDC 2024 session: All Things Azure and OpenAI
 
+# Azure Game Dev Conference (https://developer.microsoft.com/en-us/reactor/events/22094/)
+
 # Presenters
 * [Jon Kefaloukas] (https://www.linkedin.com/in/jonkef/)
 * [Kate Rayner] (https://www.linkedin.com/in/kate-j-rayner/)
